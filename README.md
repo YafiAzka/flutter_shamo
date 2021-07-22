@@ -1,6 +1,20 @@
 # flutter_shamo
 
-A new Flutter project.
+Sebuah project hasil dari couser BuildWithAngga(BWA) FullStack Flutter Laravel
+
+## Screenshot
+
+<p float="left">
+  <img src="https://github.com/YafiAzka/flutter_shamo/blob/main/assets-images/1%20splash%20screen.png" width="300" />
+  <img src="https://github.com/YafiAzka/flutter_shamo/blob/main/assets-images/2%20register.png" width="300" /> 
+  <img src="https://github.com/YafiAzka/flutter_shamo/blob/main/assets-images/3%20home.png" width="300" />
+  <img src="https://github.com/YafiAzka/flutter_shamo/blob/main/assets-images/4%20details.png" width="300" />
+  <img src="https://github.com/YafiAzka/flutter_shamo/blob/main/assets-images/5%20chat.png" width="300" />
+  <img src="https://github.com/YafiAzka/flutter_shamo/blob/main/assets-images/7%20cart.png" width="300" />
+  <img src="https://github.com/YafiAzka/flutter_shamo/blob/main/assets-images/8%20details%20order.png" width="300" />
+  <img src="https://github.com/YafiAzka/flutter_shamo/blob/main/assets-images/9%20succes.png" />
+</p>
+
 
 ## Getting Started
 
