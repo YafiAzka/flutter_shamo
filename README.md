@@ -12,7 +12,7 @@ Sebuah project hasil dari couser BuildWithAngga(BWA) FullStack Flutter Laravel
   <img src="https://github.com/YafiAzka/flutter_shamo/blob/main/assets-images/5%20chat.png" width="300" />
   <img src="https://github.com/YafiAzka/flutter_shamo/blob/main/assets-images/7%20cart.png" width="300" />
   <img src="https://github.com/YafiAzka/flutter_shamo/blob/main/assets-images/8%20details%20order.png" width="300" />
-  <img src="https://github.com/YafiAzka/flutter_shamo/blob/main/assets-images/9%20succes.png" />
+  <img src="https://github.com/YafiAzka/flutter_shamo/blob/main/assets-images/9%20succes.png" width="300"/>
 </p>
 
 
