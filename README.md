@@ -2,6 +2,8 @@
 
 Sebuah project hasil dari couser BuildWithAngga(BWA) FullStack Flutter Laravel
 
+Untuk yang mau test aplikasinya : https://drive.google.com/file/d/14QRWCh2uDGkjDve32TLoOEbqt75NipiA/view?usp=sharing
+
 ## Screenshot
 
 <p float="left">
